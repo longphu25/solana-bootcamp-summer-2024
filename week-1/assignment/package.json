@@ -6,7 +6,7 @@
     "ts"
   ],
   "scripts": {
-    "start": "ts-node scripts/index.ts"
+    "start": "ts-node index.ts"
   },
   "dependencies": {
     "@metaplex-foundation/js": "^0.19.3",
